@@ -1,16 +1,15 @@
-### Hi there 👋
+### Étienne Nadji (compte pro) 📚
 
-<!--
-**enadji/enadji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Je suis chargé d’édition numérique à l’[Ouvroir](https://www.misha.fr/edition-revues), où je m’occupe 
+principalement de la pépinière de revues [PARÉO](https://www.misha.fr/edition-revues/services).
 
-Here are some ideas to get you started:
+Voyez aussi les dépôts sur l’[instance Gitlab de l’Unistra](https://git.unistra.fr/enadji).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Forks de dépôts Édinum pour PARÉO
+
+- [nova](https://github.com/enadji/nova). Modèle Lodel pour les revues.
+- [prairial](https://github.com/enadji/prairial). Modèle Lodel pour le catalogue de revues.
+
+#### Obsolètes
+
+- [repec](https://github.com/enadji/repec). Un *plugin* Lodel censé gérer l’archivage RePEc. Expérimental et à l’arrêt (ce n’est plus un besoin pour PARÉO).
