@@ -1,4 +1,4 @@
-### Étienne Nadji (compte pro) 📚
+### Étienne Nadji (compte pro Unistra) 📚
 
 Je suis chargé d’édition numérique à l’[Ouvroir](https://www.misha.fr/edition-revues), où je m’occupe 
 principalement de la pépinière de revues [PARÉO](http://ouvroir.fr/portail).
