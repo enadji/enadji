@@ -5,7 +5,7 @@ principalement de la pépinière de revues [PARÉO](http://ouvroir.fr/portail).
 
 Voyez aussi les dépôts sur l’[instance Gitlab de l’Unistra](https://git.unistra.fr/enadji).
 
-#### Forks de dépôts Édinum pour PARÉO
+#### Forks de dépôts Édinum/Chapitreneuf pour PARÉO
 
 - [prairial](https://github.com/enadji/prairial). Modèle Lodel pour le catalogue de revues.
 
